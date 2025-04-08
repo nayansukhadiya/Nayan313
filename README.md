@@ -1,6 +1,6 @@
 ## About Me
 ```typescript
-const Olga = {
+const About me = {
   name: "Nayan Sukhadiya",
   role: "SDE Intern @brilworks",
   focus: "Full Stack Development",
